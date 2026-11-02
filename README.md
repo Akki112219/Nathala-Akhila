@@ -27,3 +27,8 @@ To transform raw sales data into meaningful business insights using Excel analyt
 
 ## 👩‍💻 Author
 Data Analytics Portfolio Project
+
+## 📊 Dashboard Preview
+
+![Excel Sales Dashboard](Excel_Dashboard.png)
+
